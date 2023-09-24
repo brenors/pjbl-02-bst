@@ -5,7 +5,7 @@ que foi modulado pelas classes Main, ArvoreBuscaBinaria, No e TreeFormatter.
 ## Explicando as Classes
 
 ### No 
-Essa classe é fundamental para criar a árvore, contém os atribusos **valor** que armazena o número do no, **no esquerdo** e  **no direito** que aponta para esquerda ou direita na árvore. 
+Essa classe é fundamental para criar a árvore, contém os atributos **valor** que armazena o número do no, **no esquerdo** e  **no direito** que aponta para esquerda e direita na árvore. 
 Mantém uma referência ao valor de cada nó e aos nós filhos de cada nó, permitindo uma estrutura encadeada simples da classe de árvore.
 
 ### ArvoreBuscaBinaria
